@@ -1,4 +1,4 @@
-# 🤖 HireMind AI - Intelligent Recruitment Platform
+## 🤖 HireMind AI - Intelligent Recruitment Platform
 
 > **Hackathon Project**: AI-powered recruitment platform that revolutionizes hiring with intelligent candidate screening, automated interviews, and smart matching.
 
